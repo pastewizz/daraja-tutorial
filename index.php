@@ -91,7 +91,7 @@
             
                 <div class="col-12">
                   <label for="inputAddress" class="form-label">Amount</label>
-                  <input type="text" class="form-control" name="amount" placeholder="Enter Amount">
+                   <input type="text" class="form-control" name="amount" placeholder="Enter Amount" value="5">
                 </div>
                 <div class="col-12">
                   <label for="inputAddress2" class="form-label" >Phone Number</label>
